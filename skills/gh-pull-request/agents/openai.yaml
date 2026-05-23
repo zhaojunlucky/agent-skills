@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Pull Request"
+  short_description: "Inspect PR diffs and full file context"
+  default_prompt: "Use $gh-pull-request to inspect this pull request diff with full file context."

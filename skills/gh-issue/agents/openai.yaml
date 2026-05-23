@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Issue"
+  short_description: "Inspect and analyze GitHub issues"
+  default_prompt: "Use $gh-issue to inspect this GitHub issue and summarize the current status."
