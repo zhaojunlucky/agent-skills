@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Workflow Run"
+  short_description: "Inspect GitHub Actions runs with gh"
+  default_prompt: "Use $gh-workflow-run to inspect the latest failing GitHub Actions workflow run."
